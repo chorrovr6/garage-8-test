@@ -31,7 +31,7 @@ class Truck(Vehicle):
 
 
 def create_car():
-    make = input("Enter the make of the car: ")
+    make = ("Enter the make of the car: ")
     model = input("Enter the model of the car: ")
     year = input("Enter the year of the car: ")
     num_doors = input("Enter the number of doors of the car: ")
