@@ -35,7 +35,7 @@ def create_car():
     model = input("Enter the model of the car: ")
     year = input("Enter the year of the car: ")
     num_doors = input("Enter the number of doors of the car: ")
-    return Car(make, model, year, num_doors)
+    
   
 
 
